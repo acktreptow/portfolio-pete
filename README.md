@@ -11,11 +11,11 @@ This was the final project for the Advanced React chapter of Meta's Front-End De
 
 ## Project Overview
 
-The application has a header, landing page, projects section and contact form. 
+The application has a header, landing page, projects section and contact form.
 
 Overall, this was a very tough but equally fulfilling app to complete due to my inexperience with these more advanced technologies. But I now have significant experience in them, which then allowed me to take this portfolio page beyond the required specifications and turn into a much stronger application.
 
-For example, I incorporated responsive design throughout all 4 sections. Due to Meta not asking for this and therefore not even having a prompt to work off, I had to really delve into the Chakra documentation to figure out how to do it correctly. Fortunately, I was successful, resulting in the header, project section and contact form looking great on screens smaller than 768px.
+For example, I delved into Chakra's documentation to figure out how to implement responsive design despite Meta not requiring this. I was successful, resulting in the header, project section and contact form looking great on screens smaller than 768px.
 
 Below is also some more granular information about each section.
 
