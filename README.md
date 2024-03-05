@@ -33,7 +33,7 @@ Pete's projects had to display in a 2x2 grid format. I did this by importing the
 
 ### Contact Me Section
 
-The section I found most difficult to correctly implement as I had to use both Formik and Yup for the first time. The form now has various validation checks such as requiring an email format in the email input and at least 25 characters for the message box.
+The most difficult section to implement as I had to use both Formik and Yup for the first time, but I was successful! The controlled form has various validation checks such as requiring an email format in the email input and at least 25 characters for the message box.
 
 ## Installation
 
