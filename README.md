@@ -29,7 +29,7 @@ This was the most basic section and therefore easiest to complete. There's just 
 
 ### Projects Section
 
-For this section, Pete's projects had to display in a 2x2 grid format. This was done by importing the Card component into the Project Section component, which passed the data down as props. I then also ensured they looked good on mobile phones by having each project in their own column. Something not asked for by Meta, but something I wanted to do as it further improved my Chakra UI implementation and general documentation researching skills.
+Pete's projects had to display in a 2x2 grid format. I did this by importing the Card component into the Project Section component, which passed the data down as props. I then also ensured they looked good on mobile phones by having each project in their own column. This wasn't asked for by Meta, but something I wanted to do as it further improved my Chakra UI implementation and general documentation researching skills.
 
 ### Contact Me Section
 
