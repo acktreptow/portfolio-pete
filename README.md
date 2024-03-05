@@ -21,7 +21,7 @@ Below is also some more granular information about each section.
 
 ### Header
 
-The header had to contain external links to social media accounts and internal links to other sections of the page that would scroll smoothly to them when clicked. For extra credit, we could implement a show-hide animation depending on the scroll direction, which I implemented.
+The header had to contain external links to social media accounts and internal links to other sections of the page that would scroll smoothly to them when clicked. For extra credit, I implemented a show-hide animation depending on the scroll direction.
 
 ### Landing Page
 
