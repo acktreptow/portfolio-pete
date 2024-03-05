@@ -25,7 +25,7 @@ The header had to contain external links to social media accounts and internal l
 
 ### Landing Page
 
-This was the most basic section and therefore easiest to complete. It contains just an image of Pete and a short bio.
+This was the most basic section and therefore easiest to complete. There's just an image and a short introduction.
 
 ### Projects Section
 
