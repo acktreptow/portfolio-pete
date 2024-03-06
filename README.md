@@ -1,6 +1,6 @@
 # React Portfolio Page
 
-This was the final project for the Advanced React chapter of Meta's Front-End Developer course. In order to receive the certification, I had to create a portfolio page for a fictional client named Pete.
+My final project for the 'Advanced React' chapter of Meta's Frontend Developer course. To receive the certification, I had to create a portfolio page for a fictional client named Pete.
 
 ## Technologies Used:
 
