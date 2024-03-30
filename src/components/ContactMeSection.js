@@ -68,7 +68,7 @@ const LandingSection = () => {
           id="contactme-section"
           paddingLeft={isSmallerThan768 ? "20px" : "10px"}
         >
-          Contact me
+          Contact Me
         </Heading>
         <Box p={6} rounded="md" w="100%">
           <form onSubmit={formik.handleSubmit}>
